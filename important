@@ -1,0 +1,6 @@
+If you want to access the admin panel for the website:
+
+Just write after website url :
+admin/login.php
+
+admin is automactically open.
